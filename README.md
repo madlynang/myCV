@@ -1,121 +1,48 @@
 # **CURRICULUM VITAE**
-## **Samuel M. Owens**
-### **MS Biology Student**
-[Website](https://sites.temple.edu/smowens/) | [Email](mailto:sam.owens@temple.edu)
-- _Integrative Ecology Lab_ 
-- Department of Biology | Center for Biodiversity
+## **Madlyn Anglin**
+### **BS Environmental Science Student**
+[Email](mailto:madlyn.anglin@temple.edu)
+- Department of Environmental Science
 - Temple University
 
 
 ## Education
-**Temple University | MS Biology**
+**Temple University | BS Environmental Science**
 
-*Spring 2022 - Current*
-- Graduate Advisor: Matthew Helmus, PhD
-- Thesis: "Modeling climate change effects on the establishment of the invasive *L. delicatula*"
-
-
-**Liberty University | BS Zoology, minor in Chemistry**
-
-*Fall 2015 - Spring 2019*
-- graduate of the LU Eagle Scholars Leadership Program
-
+*Fall 2021 - Current*
+- Concentration in Applied Ecology
+- Minor in Art
 
 ## Research Projects
-**Modeling climate change effects on the establishment of the invasive *L. delicatula***
+**Understanding Moss Communities in Temperate Forest Ecosystems***
 
-*Spring 2022 - Current*
+*Spring 2024*
 
-My project takes data science approach to tackle a biological issue. Invasive species are increasingly prevalent, and a massive amount of data has been compiled about invasion trends, so techniques need to be developed to utilize these biological datasets. I use the machine-learning software “MaxEnt” to make predictions about the risk of spread for L. delicatula, both currently and under climate change. I am developing this invasion prediction framework into an R package and website that will be freely distributed. 
+Abstract:
+Despite their abundance, only in the past few decades have mosses been recognized as important, dynamic components of northern plant communities. Mosses are integral components of forest ecosystems as they contribute to the overall biodiversity, provide crucial ecosystem functions, and can act as an indicator of a forest’s health. To help understand these communities and their response to disturbance I sampled moss diversity along nine transects at three sites of varying disturbance level in a forest recently impacted by a large-scale wind disturbance. I found that diversity was variable across disturbance levels, and more closely related to habitat availability than disturbance status. This work helps us to better understand regeneration and forest recovery after disturbance events.
 
-
-**Toxicological effects of atrazine and glyphosate on a crayfish ectosymbiont (*C. ingens*)**
-
-*Summer - Fall 2018*
-
-
-**Toxicological effects of atrazine on the Appalachian Brook Crayfish (*C. b. bartonii*)**		
-
-*Fall 2015- Spring 2018*
-
-## Grants
-**Liberty University Provost Research Initiative (PRI) Grant** 
-
-*2017- 2018* 
-
-This grant is in support of research project to explore crayfish ecotoxicology. Project experimental design includes collaboration efforts with Dr. Mark Blais (histology) and Dr. Todd Allen (analytical chemistry)
-
-**Virginia Academy of Science poster presentation award** 
-
-*2017*
-
-Research Grant award to support research on the effects of low-level Atrazine exposure on crayfish development.
-
-
-## Teaching Experience
-**Instructor of Record for Introduction to Organismal Biology**
-
-*Temple University Dept of Biology | Fall 2023*
-- Instructor for two weekly sections of the lab
--	Teaches techniques including FigTree and MEGA genetic analysis softwares, dissections
-
-**Spatial Data Analysis in R- Global Change Science**		
-
-*Temple University Dept of Biology | Spring 2023*
--	Created and taught a guest lecture
--	Taught basics of GIS analysis in R coding language using packages such as terra and stars'
-
-
-## Oral Presentations																				
-
-“Low Level Atrazine Exposure Effects on Crayfish Development.” Presented at Big South Undergraduate Research Symposium, Spring 8th Annual Meeting, April 14, 2018.
+## Symposiums
+“Understanding Moss Communities in Temperate Forest Ecosystems.” Presented at the Temple Ambler Field Station Spring Research Symposium (spring 2024) and the The Undergraduate Research Symposium of the Biology Department (spring 2024).
 
 
 ## Internships																								
-**Marine Ecotoxicology Summer Research Intern** 
+**Forest Field Research Intern** 
+*Temple Ambler Field Station, Ambler, PA Department of Biology, Advisor: Dr. Mariana Bonfim*
 
-*Dauphin Island Sea Laboratory | Summer 2019*
--	Performed extractions of organic toxins from shellfish and fish tissues
--	Performed biochemical assays such as ELISA, protein assays for analyzing toxin content in tissue samples 
--	Analyzed results of assay using GraphPad Prism Statistical Analysis Software
--	Collected and prepared field samples blue-green algae 
--	Worked on HAB (harmful algal bloom) emergency response team for 2019 blue-green algal bloom off MS/AL coast
-
-**Intertidal Ecology Summer Intern** 
-
-*Shoals Marine Laboratory | Summer 2018*
--	Expanded a long-term survey of the Appledore intertidal zone
--	Collaborated with other interns to perform survey according to National Park surveying method, various other methods
--	Analyzed large dataset for trends in abundance, performed statistical analysis for project
--	Produced professional poster for RARGOM conference (won best poster in Ecology)
+- Perform Field Station tasks including dendroband maintenance, seed collection and sorting, pitfall trap monitoring, and weighing leaf litter biomass.
+- Development of independent research on moss diversity complementing and leveraging Field Station research focus on forest ecology.
 
 
 ## Work Experience																			
 
-**Laboratory Manager** 
-
-*Temple University Dept of Biology | July – November 2022*
--	Lead a research project funded by California Department of Food and Agriculture
--	Mentored eight undergraduate students in California DFA project
--	Produced machine learning models and figures for a grant report filed to California DFA
--	Oversaw administrative lab functions including conducting interviews
-
-**Laboratory Assistant** 
-
-*Temple University Dept of Genetics / Biochemistry | Feb 2020 – July 2022*
--	Independently planned and executed experiments involving SNP genotyping and Sanger sequencing 
--	Managed workflow and project assignments for temporary full-time workers
--	Worked in a high-throughput COVID-19 CLIA testing lab using an automated rt-PCR test
--	Performed tests by-hand. Helped to upscale and automate high throughput testing as part of an effort to execute Temple University COVID testing requirements for students
--	CLIA validation of clinical TTR test- Genotyped blood samples to screen for SNP causing inherited genetic disorders
--	Received, processed, and stored bariatric/neurology samples for a CLIA Biobank
--	Oversaw zebrafish husbandry for lab, performed maintenance on Aquaneering aquatic housing system
-
-**Instructor of Radio Telemetry** 
-
-*Liberty University Dept of Biology and Chemistry | Fall 2017 - Spring 2019*
--	Worked as TA of Ecology and main instructor for students in telemetry and mark-recapture techniques
--	Led mark-recapture study on urban population of eastern box turtle (T. c. carolina)
--	Used radio telemetry used to track turtles and determine home-range extent
--	Trained successor to take over position
+**Climbing Wall Student Worker and Route Setter | March 2023 – Present**
+*Temple University Campus Recreation, Philadelphia, PA*
+- Monitor climbing wall activities to ensure compliance with safety regulations and policies.
+- Teach climbing clinics and workshops for novice climbers, including safe climbing practices and techniques.
+- Maintain climbing wall equipment and environment to provide optimal climbing to over 50 patrons daily.
+  
+**Dietary Aide | May 2022 – January 2024**
+*Elan Skilled Nursing and Rehab, Scranton, PA*
+- Perform cleaning duties to maintain kitchen sanitation and hygiene standards, including washing dishes, sanitizing surfaces, and organizing kitchen equipment and supplies.
+- Collaborate with team members to coordinate meal preparation and service, ensuring timely delivery of meals to over 100 residents.
 
